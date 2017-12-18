@@ -12,7 +12,7 @@
 #include <sstream> // classes for string manipulation: stringstream
 #include <cstdio> //  printf,fprintf,fopen,fclose,fread,sscanf,fgets,FILE
 #include <cmath> // ceil,floor,fabs,abs,cos,sin,cosh,acos,asin,atan2,exp,log,pow,sqrt
-#include <cstdlib> // system(ìPAUSEî),malloc,calloc,free,rnd,srand,atof,atoi,strtod
+#include <cstdlib> // system(‚ÄúPAUSE‚Äù),malloc,calloc,free,rnd,srand,atof,atoi,strtod
 #include <cstring> // memcpy,memmove,strcpy,strcat,memset,strlen,strcmp
 #include <cctype> // islower,isupper,tolower,toupper,isdigit
 #include <algorithm>
@@ -31,11 +31,6 @@
 
 // headers: Eigen
 #include "Eigen/Dense"
-
-// headers: dlib
-#include <dlib/image_processing/frontal_face_detector.h>
-#include <dlib/image_io.h>
-//#include "dlib/all/source.cpp" // I won't need it usually
 
 #include "JNI_type_converter.h"
 
