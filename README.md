@@ -19,6 +19,8 @@ This project contains custom Java Native Interface (JNI) wrapping of several we
 
 Only the rights corresponding to the wrapping code belongs to the author. The portions of code from the OpenCV, Piotr Dollar and VLFeat libraries belong to the respective owners.
 
+https://kyaw.xyz/2017/12/18/ailib-jni-wrapping-popular-computer-vision-machine-learning-cpp-libraries
+
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
 
